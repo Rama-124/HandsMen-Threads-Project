@@ -1,4 +1,4 @@
-<img width="1387" height="632" alt="Custom App HandsMen Threads" src="https://github.com/user-attachments/assets/270523d0-8d4b-40c9-ad6d-293d072aae28" /># HandsMen-Threads-Project
+# HandsMen Threads
 # link for the HandsMen Threads Demo video
 https://drive.google.com/file/d/1iIQucFqTAq5t8CTUT65BX0GwFNmZa7bD/view?usp=sharing
 
